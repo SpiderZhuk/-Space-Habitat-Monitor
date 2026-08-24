@@ -108,7 +108,7 @@ All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s².
 | Pin 2.1 | GND |
 
 #### LED indicator
-|LED Pin | Connected To |   |
+|LED Pin | Connected To | Connect RESISTOR to ESP32  |
 | --- | --- | --- |
 | Anode(+) | 220Ω RESISTOR | GPIO 2 |
 |Cathode(-) | GND (ESP32 Pin) |   |   
