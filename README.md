@@ -5,14 +5,21 @@ Space Habitat Monitor is an open-source ESP32-based device for monitoring enviro
 
 With Habitat Monitor you can:
   1. Easy to modify.
+     
        1.1 You can easily change parameters in the code to your own values
        1.2 If you have even a little understanding of electronics, you can solder other modules to my model
+     
   2. Multi-Sensor tracking.
+     
        2.1 Collects data from multiple sensors (BMP180, MPU6050, DHT22)
-  3. Easy to use.
+     
+  2. Easy to use.
+     
        3.1 By simply pressing one button you switch between the parameters
        3.2 Device is small, so you can place it at home, in car, on bus, on plane or in my case in a rocket or ISS
+     
   4. Alert system
+     
        4.1 By specifying your parameters or leaving mine, the sensor monitors them and if the parameter crosses the limit, then the LED lights up and so you can monitor the indicators in your living enviroment
 
 
