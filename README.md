@@ -6,8 +6,8 @@
 With Habitat Monitor you can:
  ##### 1. Easy to modify.
      
-       *1.1 You can easily change parameters in the code to your own values
-       1.2 If you have even a little understanding of electronics, you can solder other modules to my model*
+       *1.1 You can easily change parameters in the code to your own values*
+       *1.2 If you have even a little understanding of electronics, you can solder other modules to my model*
      
  ##### 2. Multi-Sensor tracking.
      
@@ -16,7 +16,7 @@ With Habitat Monitor you can:
   ##### 2. Easy to use.
      
        *3.1 By simply pressing one button you switch between the parameters
-       3.2 Device is small, so you can place it at home, in car, on bus, on plane or in my case in a rocket or ISS*
+       *3.2 Device is small, so you can place it at home, in car, on bus, on plane or in my case in a rocket or ISS*
      
  ##### 4. Alert system
      
