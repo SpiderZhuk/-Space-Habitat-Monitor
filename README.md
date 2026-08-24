@@ -65,5 +65,6 @@ All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s².
 
 ## Schematic
 | Module Pin | ESP32 Pin|
+| --- | --- |
 | VCC | 3V3|
 | GND | GND |
