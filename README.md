@@ -6,8 +6,8 @@
 With Habitat Monitor you can:
   1. Easy to modify.
      
-       1.1 You can easily change parameters in the code to your own values
-       1.2 If you have even a little understanding of electronics, you can solder other modules to my model
+       ```1.1 You can easily change parameters in the code to your own values```
+      ``` 1.2 If you have even a little understanding of electronics, you can solder other modules to my model```
      
   2. Multi-Sensor tracking.
      
