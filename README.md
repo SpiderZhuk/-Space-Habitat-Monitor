@@ -14,9 +14,9 @@ With Habitat Monitor you can:
      
        *2.1 Collects data from multiple sensors (BMP180, MPU6050, DHT22)*
      
- 2. Easy to use.
+ 3. Easy to use.
      
-       *3.1 By simply pressing one button you switch between the parameters
+       *3.1 By simply pressing one button you switch between the parameters*
        *3.2 Device is small, so you can place it at home, in car, on bus, on plane or in my case in a rocket or ISS*
      
   4. Alert system
@@ -63,4 +63,13 @@ All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s².
 
 <img width="1920" height="1080" alt="3580" src="https://github.com/user-attachments/assets/061bf753-b14c-422c-89c6-670ba399e278" />
 
-##
+## Schematic
+| Module Pin | ESP32 Pin|
+| VCC | 3V3|
+| GND | GND |
+|
+|
+|
+|
+|
+
