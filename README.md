@@ -28,5 +28,38 @@ With Habitat Monitor you can:
 
 # Technical Part
 
+## BMP180 Barometric Pressure Sensor
+
+*Barometric pressure and temperature sensor with I2C interface.*
+
+#### Measurement ranges
+Temperature: -40°C to 85°C
+Pressure: 30000 Pa to 110000 Pa (300 hPa to 1100 hPa)
+The default pressure value of 101325 Pa corresponds to standard sea level atmospheric pressure (1 atm).
+
+<img width="1500" height="1500" alt="bmp-180-barometer-druk-sensor" src="https://github.com/user-attachments/assets/46e1b865-b899-4206-b837-42328de3c0ca" />
+
+## MPU6050 Accel & Gyro Sensor
+
+*Integrated sensor with 3-axis accelerometer, 3-axis gyroscope and a temperature sensor with I2C interface.*
+
+#### Units
+All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s². The gyroscope measures angular rotation and returns the number of degrees per second.
+
+<img width="700" height="700" alt="mpu6050-6-as-gyroscope-accelerometer-sensor" src="https://github.com/user-attachments/assets/3601217a-ea1e-4f0c-ae6b-81ff43baab22" />
+
+## DHT22 Humidity
+
+*Digital Humidity and Temperature sensor.*
+
+<img width="447" height="447" alt="images (4)" src="https://github.com/user-attachments/assets/07739295-2380-4a79-917f-300249cfb77d" />
+
+## SSD1306 OLED 
+
+*Monochrome 128x64 OLED display with I2C interface*
 
 
+
+<img width="1920" height="1080" alt="3580" src="https://github.com/user-attachments/assets/061bf753-b14c-422c-89c6-670ba399e278" />
+
+##
