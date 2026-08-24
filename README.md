@@ -64,7 +64,50 @@ All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s².
 <img width="1920" height="1080" alt="3580" src="https://github.com/user-attachments/assets/061bf753-b14c-422c-89c6-670ba399e278" />
 
 ## Schematic
+
+#### OLED (SSD1306) to ESP32
+
 | Module Pin | ESP32 Pin|
 | --- | --- |
 | VCC | 3V3|
 | GND | GND |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
+
+#### MPU6050 to ESP32
+
+| Module Pin | ESP32 Pin|
+| --- | --- |
+| VCC | 3V3|
+| GND | GND |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
+
+#### BMP180 to ESP32
+
+| Module Pin | ESP32 Pin|
+| --- | --- |
+| VCC | 3V3|
+| GND | GND |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
+
+#### DHT22 Sensor to ESP32
+
+| Module Pin | ESP32 Pin|
+| --- | --- |
+| VCC | 3V3|
+| GND | GND |
+| SDA | GPIO 13 |
+
+#### PushButton to ESP32
+
+| Module Pin | ESP32 Pin|
+| --- | --- |
+| pin 1.1 | GPIO 4|
+| Pin 2.1 | GND |
+
+#### LED indicator
+
+Anode(+) -- 220Ω Resistor -- GPIO 2
+Cathode(-) -- GND (ESP32 Pin)
