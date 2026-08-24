@@ -98,17 +98,17 @@ All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s².
 | --- | --- |
 | VCC | 3V3|
 | GND | GND |
-| SDA | GPIO 13 |
+| SDA (data) | GPIO 13 |
 
 #### PushButton to ESP32
 
 | Module Pin | ESP32 Pin|
 | --- | --- |
-| pin 1.1 | GPIO 4|
+| Pin 1.1 | GPIO 4|
 | Pin 2.1 | GND |
 
 #### LED indicator
-|LED Pin | Another Pin |   |
+|LED Pin | Connected To |   |
 | --- | --- | --- |
 | Anode(+) | 220Ω RESISTOR | GPIO 2 |
 |Cathode(-) | GND (ESP32 Pin) |   |   
