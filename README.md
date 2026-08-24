@@ -110,4 +110,4 @@ All the acceleration values (x/y/z) use g-force units, where 1g = 9.80665 m/s².
 #### LED indicator
 
 | Anode(+) | 220Ω Resistor | GPIO 2
-Cathode(-) | GND (ESP32 Pin)
+|Cathode(-) | GND (ESP32 Pin)
